@@ -24,3 +24,4 @@ st.image("img/img.png", width=100)  # 파일 경로 (app.py)
 # https://imgur.com/
 
 # streamlit run app.py
+
